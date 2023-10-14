@@ -28,7 +28,7 @@ blog(data, infra) : https://enterone.tistory.com/ <br/>
 GitHub : https://github.com/neodio
 
 <!-- ### Skill -->
-<!-- <div style="display:flex; flex-direction:column; align-items:flex-start;"> -->
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <!-- <p><strong>Backend</strong></p> -->
     <!-- <div>
@@ -95,5 +95,5 @@ GitHub : https://github.com/neodio
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a> -->
         <!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"> -->
         <!-- <img src="https://img.shields.io/badge/StarUML-7D57C1?style=flat&logo=staruml&logoColor=white"> -->
-    <!-- </div>
-</div> -->
+    <!-- </div> -->
+</div>
