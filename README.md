@@ -11,9 +11,12 @@
 </div>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neodio&show_icons=true)  
+[![Neodio's GitHub stats](https://github-readme-stats.vercel.app/api?username=neodio&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neodio&layout=compact)](https://github.com/neodio)
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neodio)   -->
+
+[![Neodio's GitHub stats](https://github-readme-stats.vercel.app/api?username=neodio&line_height=24&hide_rank=true&&layout=compact&theme=white)](https://github.com/jogilsang/jogilsang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neodio&layout=compact&langs_count=8&theme=white)](https://github.com/jogilsang?tab=repositories&q=&type=&language=java&sort=)
 
 </div>
 
