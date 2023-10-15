@@ -16,7 +16,7 @@
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neodio)   -->
 
 <!-- 배경화면 트로피 설정 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=neodio&theme=flat&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=neodio&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
