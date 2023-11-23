@@ -11,9 +11,12 @@
 </div>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neodio&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neodio&layout=compact)](https://github.com/neodio)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=neodio&line_height=24&hide_rank=true&show_icons=true&layout=compact&theme=white)](https://github.com/neodio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neodio&layout=compact&langs_count=8&theme=white)](https://github.com/neodio?tab=repositories&q=&type=&language=java&sort=)
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neodio)   -->
+
+<!-- 배경화면 트로피 설정 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=neodio&theme=flat&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -27,6 +30,8 @@ blog(development) : https://xzio.tistory.com/ <br/>
 blog(data, infra) : https://enterone.tistory.com/ <br/>
 blog(Android) : https://vzio.tistory.com/ <br/>
 GitHub : https://github.com/neodio
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneodio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- ### Skill -->
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
