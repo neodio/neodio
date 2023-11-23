@@ -25,6 +25,7 @@
 Email : godwings@naver.com <br/>
 blog(development) : https://xzio.tistory.com/ <br/>
 blog(data, infra) : https://enterone.tistory.com/ <br/>
+blog(Android) : https://vzio.tistory.com/ <br/>
 GitHub : https://github.com/neodio
 
 <!-- ### Skill -->
