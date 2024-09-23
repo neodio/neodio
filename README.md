@@ -22,7 +22,7 @@
 
 ### Introduction
 안녕하세요.<br/>
-자바와 스프링을 주력으로 하는 백엔드 개발자입니다.
+자바, 코틀린, 스프링을 주력으로 하는 백엔드 개발자입니다.
 
 ### Contact
 Email : godwings@naver.com <br/>
