@@ -1,22 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=neodio's%20GitHub&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=neodio's%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<div align="center">
- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
- <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-</div>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=520&lines=Java+%7C+Kotlin+%7C+Spring+Backend+Developer;%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8+%EC%84%9C%EB%B2%84%EB%A5%BC+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
+</a>
+
 <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=neodio&line_height=24&hide_rank=true&show_icons=true&layout=compact&theme=white)](https://github.com/neodio)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neodio&layout=compact&langs_count=8&theme=white)](https://github.com/neodio?tab=repositories&q=&type=&language=java&sort=)
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neodio)   -->
+<img src="https://komarev.com/ghpvc/?username=neodio&label=Profile%20views&color=6DB33F&style=flat" alt="profile views"/>
 
-<!-- 배경화면 트로피 설정 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=neodio&theme=flat&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+<br><br>
+
+<!-- 기술 스택 (skillicons.dev — 안정적으로 동작) -->
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,git,github,linux,docker,aws,idea&theme=light" alt="skills"/>
+
+<br><br>
+
+<!-- 활동 그래프 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neodio&theme=minimal&hide_border=true&color=6DB33F&line=6DB33F&point=336633" alt="activity graph" width="90%"/>
 
 </div>
 
